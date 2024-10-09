@@ -1,1 +1,126 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Rainbow Text</title>
+<style>
+.rainbow-text {
+	font-family: Courier New, Courier, monospace;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 68px;
+	text-shadow: #A3A3A3 4px 3px 4px;
+}
+.rainbow-text .block-line > span {
+	display: inline-block;
+}
+
+</style>
+</head>
+<body>
+<!-- https://www.html-code-generator.com/html/rainbow-text-generator -->
+
+<div class="rainbow-text">
+	<span class="block-line"><span><span style="color:#C90D7A">П</span><span style="color:#FBE40A">р</span><span style="color:#39C940">о</span><span style="color:#79E28A">в</span><span style="color:#16FC3B">е</span><span style="color:#8D3A2C">р</span><span style="color:#F3F858">к</span><span style="color:#DA6BD3">а&nbsp;</span></span><span><span style="color:#3DA911">П</span><span style="color:#D9CF69">р</span><span style="color:#BC6278">о</span><span style="color:#F879E5">к</span><span style="color:#06F6A2">о</span><span style="color:#5B422B">п</span><span style="color:#4DF897">ь</span><span style="color:#E68E87">е</span><span style="color:#0C7996">в</span><span style="color:#182912">а&nbsp;</span></span><span><span style="color:#575FBE">А</span><span style="color:#CEC5BF">р</span><span style="color:#787275">и</span><span style="color:#D405A1">н</span><span style="color:#EADAEB">а</span></span></span>
+</div>
+</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Rainbow Text</title>
+<style>
+.rainbow-text {
+	font-family: Courier New, Courier, monospace;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 42px;
+	letter-spacing: 5px;
+	text-shadow: #A3A3A3 19px 8px 4px;
+}
+.rainbow-text .block-line > span {
+	display: inline-block;
+}
+
+</style>
+</head>
+<body>
+<!-- https://www.html-code-generator.com/html/rainbow-text-generator -->
+
+<div class="rainbow-text">
+	<span class="block-line"><span><span style="color:#ff0000">К</span><span style="color:#ff1100">а</span><span style="color:#ff2200">к&nbsp;</span></span><span><span style="color:#ff3300">м</span><span style="color:#ff4400">о</span><span style="color:#ff5500">ж</span><span style="color:#ff6600">н</span><span style="color:#ff7700">о&nbsp;</span></span><span><span style="color:#ff8800">п</span><span style="color:#ff9900">р</span><span style="color:#ffaa00">о</span><span style="color:#ffbb00">в</span><span style="color:#ffcc00">е</span><span style="color:#ffdd00">с</span><span style="color:#ffee00">т</span><span style="color:#ffff00">и&nbsp;</span></span><span><span style="color:#ffee00">с</span><span style="color:#ffdd00">в</span><span style="color:#ffcc00">о</span><span style="color:#ffbb00">и&nbsp;</span></span><span><span style="color:#ffaa00">л</span><span style="color:#ff9900">е</span><span style="color:#ff8800">т</span><span style="color:#ff7700">н</span><span style="color:#ff6600">и</span><span style="color:#ff5500">е&nbsp;</span></span><span><span style="color:#ff4400">к</span><span style="color:#ff3300">а</span><span style="color:#ff2200">н</span><span style="color:#ff1100">и</span><span style="color:#ff0000">к</span><span style="color:#ff1100">у</span><span style="color:#ff2200">л</span><span style="color:#ff3300">ы</span><span style="color:#ff4400">?</span></span></span>
+</div>
+</body>
+<style>
+    /* Стили таблицы (IKSWEB) */
+    table.iksweb {
+        text-decoration: none;
+        border-collapse: collapse;
+        width: 100%;
+        text-align: center;
+    }
+
+        table.iksweb th {
+            font-weight: normal;
+            font-size: 27px;
+            color: #eb3713;
+            background-color: #3d8cc4;
+        }
+
+        table.iksweb td {
+            font-size: 16px;
+            color: #141413;
+        }
+
+        table.iksweb td, table.iksweb th {
+            white-space: pre-wrap;
+            padding: 5px 0px;
+            line-height: 16px;
+            vertical-align: middle;
+            border: 2px solid #cf6d6d;
+        }
+
+        table.iksweb tr:hover {
+            background-color: #f3f7c6
+        }
+
+            table.iksweb tr:hover td {
+                color: #548f55;
+                cursor: pointer;
+            }
+</style>
+<table class="iksweb">
+    <thead>
+        <tr>
+            <th>Куда можно сьездить отдыхать</th>
+            <th>С кем можно провести лето </th>
+            <th>Чем можно защищаться от солнца</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>За границу</td>
+            <td>С семьей</td>
+            <td>спф</td>
+        </tr>
+        <tr>
+            <td>На Байкал</td>
+            <td>С друзьями</td>
+            <td>крем от загара</td>
+        </tr>
+        <tr>
+            <td>На море</td>
+            <td>С парой</td>
+            <td>чем нибудь прикрыться(зонтик)</td>
+        </tr>
+    </tbody>
+</table>
+</html>
+
+
 
